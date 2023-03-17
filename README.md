@@ -13,7 +13,10 @@ The MVC Movie Store has the following features:
 •	Ability to delete existing movies.
 
 Database
-The store uses a Microsoft SQL Server database. The database will be populated with data when the web application is first run in debug mode as the database does not already exist, this includes a built-in administration user. Tip: You will need to create a blank database to connect to using Ms Server Management Studio, and update the app settings json file so population can happen for first use. 
+The store uses a Microsoft SQL Server database. The database will be populated with data when the web application is first run in debug mode as the database does not already exist, this includes a built-in administration user.
 
 Users
 The web application contains a built in user account to act as an administrator. The details of this account can be specified in the MVC Movie Store config.json file.
+
+Link to the website
+https://2111421.win.studentwebserver.co.uk/CO5029/Movies
